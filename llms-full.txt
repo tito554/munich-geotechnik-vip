@@ -1,0 +1,55 @@
+# Munich
+
+> Geotechnical engineering company in Germany, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Anker](https://munich.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://munich.geotechnik.vip/atterberg-grenzen/)
+- [Aushub Monitoring](https://munich.geotechnik.vip/aushub-monitoring/)
+- [Aushub Untertagebau](https://munich.geotechnik.vip/aushub-untertagebau/)
+- [Bodenplatten](https://munich.geotechnik.vip/bodenplatten/)
+- [Bodenverbesserung](https://munich.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://munich.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://munich.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://munich.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://munich.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://munich.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://munich.geotechnik.vip/fundamente/)
+- [Geophysik](https://munich.geotechnik.vip/geophysik/)
+- [Grundungen](https://munich.geotechnik.vip/grundungen/)
+- [Hange Boschungen](https://munich.geotechnik.vip/hange-boschungen/)
+- [In Situ Durchlassigkeit](https://munich.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://munich.geotechnik.vip/injektionen/)
+- [Kontakt](https://munich.geotechnik.vip/kontakt/)
+- [Korngrossenanalyse](https://munich.geotechnik.vip/korngrossenanalyse/)
+- [Labor](https://munich.geotechnik.vip/labor/)
+- [Labor In Situ](https://munich.geotechnik.vip/labor-in-situ/)
+- [Masw](https://munich.geotechnik.vip/masw/)
+- [Pfahle](https://munich.geotechnik.vip/pfahle/)
+- [Privacidad](https://munich.geotechnik.vip/privacidad/)
+- [Proctor Versuche](https://munich.geotechnik.vip/proctor-versuche/)
+- [Ruttelverdichtung](https://munich.geotechnik.vip/ruttelverdichtung/)
+- [Sandkegel Dichte](https://munich.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://munich.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://munich.geotechnik.vip/schurfgruben/)
+- [Seismik](https://munich.geotechnik.vip/seismik/)
+- [Seismische Mikrozonierung](https://munich.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://munich.geotechnik.vip/seismische-refraktion/)
+- [Sitemap](https://munich.geotechnik.vip/sitemap/)
+- [Spt Bohrung](https://munich.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://munich.geotechnik.vip/starrer-belag/)
+- [Straengeotechnik](https://munich.geotechnik.vip/straengeotechnik/)
+- [Stutzmauern](https://munich.geotechnik.vip/stutzmauern/)
+- [Tiefe Aushube](https://munich.geotechnik.vip/tiefe-aushube/)
+- [Triaxialversuch](https://munich.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://munich.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://munich.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://munich.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://munich.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://munich.geotechnik.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Germany.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
